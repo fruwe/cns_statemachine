@@ -1,0 +1,4 @@
+sudo gem uninstall cns_statemachine
+rm -rf pkg
+rake package
+sudo gem install pkg/cns_statemachine-0.0.2.gem

@@ -1,0 +1,7 @@
+
+For more information on cns_statemachine, see http://cns_statemachine.rubyforge.org
+
+NOTE: Change this information in PostInstall.txt 
+You can also delete it if you don't want it.
+
+
